@@ -5,3 +5,5 @@
 ![Локация с обучением (вид из игры)](https://github.com/DemianBob/Emoveo/assets/92908794/5e57c8ba-1c3b-444b-ba82-cf1fb1150c31)
 Третья локация создана с нуля
 ![Третья локация (создана с нуля)](https://github.com/DemianBob/Emoveo/assets/92908794/2dcd810d-da79-4ece-8eff-24bf273386ad)
+Меню читов
+![изображение](https://github.com/DemianBob/Emoveo/assets/92908794/c340006f-226d-4093-be1a-79bee4575d5e)
